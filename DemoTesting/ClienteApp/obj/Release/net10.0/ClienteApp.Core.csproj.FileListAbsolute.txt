@@ -1,0 +1,12 @@
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\bin\Release\net10.0\ClienteApp.Core.deps.json
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\bin\Release\net10.0\ClienteApp.Core.dll
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\bin\Release\net10.0\ClienteApp.Core.pdb
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\ClienteApp.Core.csproj.AssemblyReference.cache
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\ClienteApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\ClienteApp.Core.AssemblyInfoInputs.cache
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\ClienteApp.Core.AssemblyInfo.cs
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\ClienteApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\ClienteApp.Core.dll
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\refint\ClienteApp.Core.dll
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\ClienteApp.Core.pdb
+C:\Users\ariat\Desktop\final analisis\DemoTesting\ClienteApp\obj\Release\net10.0\ref\ClienteApp.Core.dll
